@@ -38,7 +38,7 @@ ipaddress==1.0.23
 isodate==0.6.0
 kombu==3.0.37
 mysqlclient==1.4.4
-lxml==4.2.6
+lxml==4.6.2
 paramiko==2.0.9
 Pillow==6.2.2
 py-moneyed==0.6.0
